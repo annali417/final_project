@@ -8,7 +8,7 @@ This plot and chart demonstrate the district (adm2) boundaries of Morocco. Names
 
 The population density in Morocco within its regional boundaries is also shown. The highest densities are within the Casablanca region and Marrakech - Tensift - Al-Haouz region. Such regions are the conventional cultural hub of the nation, with a stable population of around 3.36 million. It is relatively less populated in the East, where Morocco borders with Algeria. 
 
-![](Screen Shot 2019-10-24 at 6.09.09 PM (1).png)
+![](Screen Shot 2019-10-24 at 6.07.32 PM.png)
 This plot also provides a visualized image of the population density distribution in Morocco. Regions bordering the sea are generally more populated than regions close to the land. 
 
 Below is a 3D plot of Morocco. A higher elevation of the region indicates that the region is more highly populated. For instance, the region where Casablanca is located seems to be the highest elevated.
