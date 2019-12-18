@@ -10,6 +10,7 @@ This plot and chart demonstrate the district (adm2) boundaries of Morocco. Names
 
 The population density in Morocco within its regional boundaries is also shown. The highest densities are within the Casablanca region and Marrakech - Tensift - Al-Haouz region. Such regions are the conventional cultural hub of the nation, with a stable population of around 3.36 million. It is relatively less populated in the East, where Morocco borders with Algeria. 
 
+![](mor_pop19.png)
 This plot also provides a visualized image of the population density distribution in Morocco. Regions bordering the sea are generally more populated than regions close to the land. 
 
 Below is a 3D plot of Morocco. A higher elevation of the region indicates that the region is more highly populated. For instance, the region where Casablanca is located seems to be the highest elevated.
@@ -44,6 +45,37 @@ In addition, the difference plots for all three methods of calculation seemed to
 
 # Morocco Human Settlements, Roadways, and Healthcare Facilities
 
+To identify the human settlements in my two selected regions in Morocco: Berkane Taourirt and Jerada, I first used the adm2 variable to verify the most densely populated areas in the two regions. As seen below.
+![](subpolys_filtered.png)
+
+![](urban_jerada.png)
+
+![](urban_bt.png)
+![](urban_btbt.png)
+
+![](urban.png)
+![](roads&health.png)
+
+![](Project4.jpg)
+
+Topography's effect on urban areas.
+
+Topography definitely played a huge role in the extent to which areas are urbanized in Berkane Taourirt and Jerada. It is quite striking how simply based on the altitude of hills/mountains in the region, areas are completely segregated and developed under extremely different circumstances. There are two main higher altitude hills that spread across the combined region, one separated Saidia from the wider range of Tafoughalt, Berkane, and Oujda, and the other separating Tafoughalt, Berkane, and Oujda from Jerada, which because of the hill segregation, is not densely populated. In fact, all major urban areas in my graph are areas on the lower topography in this landscape, and mostly connected with other urban areas that had the same level of altitude. 
+
+![](project4.png)
+
+Topography's effect on transportation networks. 
+
+The three primary roads in the region definitely seem to be going through lower altitudes of the area - Especially the middle primary road that goes through Tafoughalt, Berkane, and Oujda, that its construction seemed to have surrounded with avoidance of uphill regions. In addition, lower areas are connected by roads to other regions of the same altitude where no hills were interfering, while secondary and tertiary roads seem to be going across hills a lot more, which indicates the lesser amount of population actually needing to utilize these minor roads across the hills, implying a lack of connectivity between regions separated by hills. 
+
+![](combined.png)
+
+Topography's effect on healthcare facilities.
+
+The lack of health facilities in the center, low-altitude region (Tafoughalt, Berkane) seems to suggest that the construction and accessibility of health care facilities are largely dependent on its accessibility to the outer world. Whereas Saidia has a few health care facilities, probably due to its closeness to the outer country border, Tafoughalt and Berkane seemed to be completely segregated from medical attention. Their easiest route to access health care facilities was to travel to Oujda, where a sufficient amount of healthcare facilities are located. 
+
+The three-dimensional map definitely assisted me in understanding the reasons behind urban distributions, roads, and healthcare facilities a lot more. Whereas while analyzing the 2D map, I only could make judgement on the results of distribution of urban settlements, now I can actually explore causes behind this particular way of urban distribution based on the landscape, which in the regions I am researching around, is significantly important. 
 
 
+On the other hand, the three-dimensional map also helped me to understand why exactly is Jerada so much more isolated than other urban areas in the region. Whereas Saidia is connected to the outside and having Tafoughalt, Berkane, and Oujda locating right across the hill from Saidia, the regions’ supplies, that mainly come from the North where Saidia is located, seemed to be slowly exhausted along its distribution to Tafoughalt, Berkane, and Oujda, leaving less resources and attention to the region behind the hills. Therefore, less people choose to settle there given the geographical difficulties to travel, and also due to lack of resources. 
 
