@@ -29,6 +29,7 @@ Means of Population:
 Below are the three plots describing my calculated data of means of the population of Morocco.
 
 ![](Screen Shot 2019-12-18 at 10.19.04 AM.png)
+![](Screen Shot 2019-10-24 at 6.09.22 PM (1).png)
 
 Log of Population: 
 Below are the three plots describing my calculated data of Logarithm of the population of Morocco.
