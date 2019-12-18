@@ -48,14 +48,32 @@ In addition, the difference plots for all three methods of calculation seemed to
 To identify the human settlements in my two selected regions in Morocco: Berkane Taourirt and Jerada, I first used the adm2 variable to verify the most densely populated areas in the two regions. As seen below.
 ![](subpolys_filtered.png)
 
-![](urban_jerada.png)
+Afterwards, I seleted the boundaries for density of urban settlements using R-studio for the two distinct regions. As shown below. 
 
-![](urban_bt.png)
+This is the plot for urban settlements in Berkane Taourirt:
 ![](urban_btbt.png)
 
+This is the plot for urban settlements in Jerada:
+![](urban_jerada.png)
+
+Hadving the two adm2 regions ready, I combined the two regions together and generated the plot below.
 ![](urban.png)
+
+After downloaidng and importing GADM data files on road networks and healthcare facilities, the distinct urban settlements seem to all come together concerning the societal and environmental factors. 
 ![](roads&health.png)
 
+Road networks: 
+
+There are not a lot of primary roads spread out across the combined region that Iselected. However, there seemed to be too major roads across the region of BerkaneTaourirt - one going through the ocean border of Saidia and the other two going throughthe two major towns - Berkane and Tafaughalt - in the center of the province.Looking at the neighboring region of Jerada, however, we see that there are not a lot ofpresence of primary roads, whereas secondary and tertiary roads are more prevalent,indicating the region is underdeveloped. There is only one primary road that goes acrossJerada which eventually reaches a more prosperous town - it seems - that is outside ofthe Berkane & Jerada region in this case.It is most likely going to be Oujda, a bordering city in Morocco that is close to Algeria.Most clinics and hospitals I observed for this combined adm2 region, ironically it seems,are mostly based in Oujda rather than within my selected regions. 
+
+Healthcare Facilities: 
+
+Compared to the amount of health care facilities outside of my combined region, there isnot of them within my selected two regions to my surprise. There are a few spreadacross the tourism town of Saidia, where the beach resort is located. But there are onlytwo other health facilities located outside of Oujda within my combined region. This isquite ironic because population density is the highest in Tafoughalt, but there is onlyone health facility, whereas compared to Oujda where population density is not thathigh, but there are plenty of health care resources available.On the other hand, the province of Jerada only has one health care facility in total - nearthe bordering region with Albera - which suggests a lack of health care resources formost residents in the region.Additionally, transportation roads really do effectively link health care resourcestogether - almost all healthcare facilities are joined by one or more primary roads inBerkan Taourirt, and we can see secondary and tertiary roads expand from where thehealth care resources are as well. 
+
+![](urban_names.png)
+The above plot illustrates where mentioned towns and villages are. 
+
+This is my adm2 regions combined with the topography of the region.
 ![](Project4.jpg)
 
 Topography's effect on urban areas.
@@ -79,3 +97,6 @@ The three-dimensional map definitely assisted me in understanding the reasons be
 
 On the other hand, the three-dimensional map also helped me to understand why exactly is Jerada so much more isolated than other urban areas in the region. Whereas Saidia is connected to the outside and having Tafoughalt, Berkane, and Oujda locating right across the hill from Saidia, the regions’ supplies, that mainly come from the North where Saidia is located, seemed to be slowly exhausted along its distribution to Tafoughalt, Berkane, and Oujda, leaving less resources and attention to the region behind the hills. Therefore, less people choose to settle there given the geographical difficulties to travel, and also due to lack of resources. 
 
+# Analysis of Morocco's Human Development
+
+![](background.png)
