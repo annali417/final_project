@@ -11,14 +11,17 @@ This plot and chart demonstrate the district (adm2) boundaries of Morocco. Names
 The population density in Morocco within its regional boundaries is also shown. The highest densities are within the Casablanca region and Marrakech - Tensift - Al-Haouz region. Such regions are the conventional cultural hub of the nation, with a stable population of around 3.36 million. It is relatively less populated in the East, where Morocco borders with Algeria. 
 
 ![](mor_pop19.png)
+
 This plot also provides a visualized image of the population density distribution in Morocco. Regions bordering the sea are generally more populated than regions close to the land. 
 
 Below is a 3D plot of Morocco. A higher elevation of the region indicates that the region is more highly populated. For instance, the region where Casablanca is located seems to be the highest elevated.
+
 ![](Mor_spatial.gif)
 
 # Population Comparison
 
 Below are two charts comparing Morocco's population to other factors (for instance, slope of landscape, etc.)
+
 ![](pop19resid.png)
 ![](pop19resid.png)
 
@@ -51,15 +54,19 @@ To identify the human settlements in my two selected regions in Morocco: Berkane
 Afterwards, I seleted the boundaries for density of urban settlements using R-studio for the two distinct regions. As shown below. 
 
 This is the plot for urban settlements in Berkane Taourirt:
+
 ![](urban_btbt.png)
 
 This is the plot for urban settlements in Jerada:
+
 ![](urban_jerada.png)
 
 Hadving the two adm2 regions ready, I combined the two regions together and generated the plot below.
+
 ![](urban.png)
 
 After downloaidng and importing GADM data files on road networks and healthcare facilities, the distinct urban settlements seem to all come together concerning the societal and environmental factors. 
+
 ![](roads&health.png)
 
 Road networks: 
@@ -74,6 +81,7 @@ Compared to the amount of health care facilities outside of my combined region, 
 The above plot illustrates where mentioned towns and villages are. 
 
 This is my adm2 regions combined with the topography of the region.
+
 ![](Project4.jpg)
 
 Topography's effect on urban areas.
