@@ -3,7 +3,6 @@
 Greetings. My name is Anna(Siqi) Li and this is my final project on Morocco. 
 
 ![](moroccoflag.jpg)
-![](doggie.png)
 
 # Administrative Subdivisions of Morocco 2
 ![](Morocco.png)
